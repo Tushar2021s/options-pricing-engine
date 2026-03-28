@@ -1,0 +1,4 @@
+Model,Ops_per_sec
+BlackScholes,36418.17257685177
+MonteCarlo,6470.700425777592
+BinomialTree,894.0240204945544
